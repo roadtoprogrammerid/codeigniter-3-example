@@ -1,6 +1,10 @@
 # codeigniter-3-example
 Example project using Codeigniter 3
 
+### To run this project
+1. put this project into Apache `htdocs`
+2. in the browser go to uri `http://localhost/codeigniter-3-example/index.php/login`
+
 ### This project is already implemented:
 1. Insert data into MySQL database
 2. Get data from MySQL database
